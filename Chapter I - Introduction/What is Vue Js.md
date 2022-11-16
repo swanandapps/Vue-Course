@@ -1,0 +1,2 @@
+- Creation of websites using HTML, CSS & JS.
+- multiple drawbacks, large codebase, unused code, hard to maintain, not optimized for browsers, page reload in new route.
