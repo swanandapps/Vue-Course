@@ -6,8 +6,8 @@
 </template>
 
 <script setup>
-import NavbarComponent from "../components/HomepageComponents/Navbar.vue";
-import BannerComponent from "../components/HomepageComponents/Banner.vue";
+import NavbarComponent from "@/components/HomepageComponents/Navbar.vue";
+import BannerComponent from "@/components/HomepageComponents/Banner.vue";
 </script>
 
 <style scoped>

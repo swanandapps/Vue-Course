@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-import data from "../../../data/products.json";
+import data from "@/data/products.json";
 
 const Products = data;
 </script>
