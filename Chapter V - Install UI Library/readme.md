@@ -9,3 +9,6 @@ Make Sure to disable Quasar Sass/SCSS variables in docs
 
 $ npm install quasar @quasar/extras
 $ npm install -D @quasar/vite-plugin
+
+setup
+use library

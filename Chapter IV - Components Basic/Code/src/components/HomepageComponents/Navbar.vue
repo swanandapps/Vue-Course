@@ -2,15 +2,12 @@
   <div>
     <div id="navbar">
       <div id="lhs">
-        <router-link to="/">
-          <div>Home</div>
-        </router-link>
+        <div>Home</div>
       </div>
 
       <div id="rhs">
         <div>Account</div>
         <div id="cart">
-          <q-icon name="shopping_cart" />
           <div id="cart_count">1</div>
         </div>
       </div>

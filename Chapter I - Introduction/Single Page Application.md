@@ -1,2 +1,3 @@
 - https://www.bloomreach.com/en/blog/2018/what-is-a-single-page-application
 - basic html gmail vs new gmail for comparison
+- default method of loading entirly new page
