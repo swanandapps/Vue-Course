@@ -1,3 +1,0 @@
-- navbar component
-- banner component ( need of props )
-- using views
