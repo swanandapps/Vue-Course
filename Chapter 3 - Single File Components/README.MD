@@ -3,7 +3,7 @@
 
 3.3 - Creating your first Component
 3.4 - props
-3.5 - options API vs comp API
+3.5 - options API vs comp API ( counter example 
 3.5 - aliases
 
 - show possible errors while teaching any concept at the end
